@@ -6,4 +6,4 @@ Rozhodně bych se REACT rád naučil, ale holt na to momentálně nezbyl čas. U
 
 Doufám, že mě chápete.
 
-S pozdravem Oskar
+S pozdravem Oskar {2:25AM}
